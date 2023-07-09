@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vsevolod Diediaev 
+
 I'm Front-End Developer   
+
 I am studying at the Lviv Polytechnic University majoring in Cybersecurity. I have been involved in front-end development since a relatively young age and have studied various areas of web development. I'm a React and Angular developer and know how to work with backends and databases. I am always open to new challenges and learning new technologies. I enjoy the creative process of building aesthetic, interactive websites and improving user interfaces. I have experience working in a team environment, as the ability to collaborate effectively and communicate with colleagues is an important aspect of my professional work. I believe in the power of collective intelligence and am open to sharing ideas to achieve common goals. My goal is to achieve great success in the world of front-end development, increase my knowledge and skills, and contribute to the development of innovative web projects. I'm interested in working on interesting and challenging projects that help me broaden my horizons and grow professionally. I always welcome collaboration, sharing ideas and learning from other experts. If you are interested in cooperation or have any questions, please feel free to contact us.   
 * 🌍  I'm based in Kryvyi Rih
-* * ✉️  You can contact me at [dedyaev.ua@gmail.com](mailto:dedyaev.ua@gmail.com)
+*  ✉️  You can contact me at [dedyaev.ua@gmail.com](mailto:dedyaev.ua@gmail.com)
 
 <a href="https://www.github.com/wsemit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/wsemit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
  Skills  
