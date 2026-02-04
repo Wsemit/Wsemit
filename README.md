@@ -1,6 +1,6 @@
 Hi 👋 My name is Vsevolod Dedyaev
 
-I’m a **Full-Stack Software Engineer** with 2+ years of commercial experience building production web and mobile applications.
+I’m a **Full-Stack Software Engineer** with 3+ years of commercial experience building production web and mobile applications.
 
 I specialize in **Node.js, TypeScript, React, and Next.js**, working on SaaS products used by users across multiple countries. My background includes designing REST APIs, real-time systems (WebSockets), database-driven applications, and scalable frontend architectures.
 
