@@ -14,7 +14,7 @@ I have hands-on experience with:
 I’m comfortable owning features end-to-end — from architecture and implementation to deployment and maintenance. I value clean, maintainable code, clear communication inside teams, and building solutions that scale in real production environments.
 
 🌍 Based in Lviv, Ukraine  
-✉️ Contact: [dedyaev.ua@gmail.com](mailto:dedyaev.ua@gmail.com)
+✉️ Contact: [diediaievvsevolod@gmail.com](mailto:diediaievvsevolod@gmail.com)
 
 <a href="https://www.github.com/wsemit" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/wsemit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
